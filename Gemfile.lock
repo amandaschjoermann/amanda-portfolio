@@ -1,3 +1,12 @@
+GIT
+  remote: https://github.com/lewagon/middleman-deploy.git
+  revision: 4f97af2034d6e7548a172d89a2a37fc263c6c987
+  specs:
+    middleman-deploy (2.0.0.pre.alpha)
+      middleman-core (>= 3.2)
+      net-sftp
+      ptools
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -95,10 +104,6 @@ GEM
       servolux
       tilt (~> 2.0.9)
       uglifier (~> 3.0)
-    middleman-deploy (1.0.0)
-      middleman-core (>= 3.2)
-      net-sftp
-      ptools
     mini_portile2 (2.4.0)
     minitest (5.11.3)
     net-sftp (2.1.2)
@@ -168,7 +173,7 @@ DEPENDENCIES
   jquery-middleman
   middleman (~> 4.2)
   middleman-autoprefixer (~> 2.7)
-  middleman-deploy (~> 1.0)
+  middleman-deploy!
   tzinfo-data
   wdm (~> 0.1)
 
