@@ -1,0 +1,110 @@
+@media screen and (max-width: 600px) {
+  .about-text {
+    font-size: 12px;
+    padding: 10px 10px;
+    margin-bottom: 80px;
+  }
+}
+
+@media screen and (max-width: 321px) {
+  .me-photo img {
+    width: 220px;
+  }
+}
+
+@media screen and (max-width: 321px) {
+  .logo {
+    padding-top: 50px;
+  }
+}
+
+@media screen and (max-width: 321px) {
+  .about-text {
+    font-size: 10px;
+    padding: 5px 5px;
+    margin-top: 20px;
+    margin-bottom: 80px;
+  }
+}
+
+@media screen and (max-width: 376px) {
+  .about-text {
+    margin-top: -20px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .logo b {
+    font: 100 4vh "Vibur";
+  }
+}
+
+@media screen and (max-width: 376px) {
+  .logo b {
+    font: 100 3.5vh "Vibur";
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .logo {
+    height: 160px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .photo-section {
+    height: 40vh;
+    background-position: 20% 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .slider {
+    margin: 0 auto;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .slider {
+    margin: 0 auto;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .mystack {
+    width: 350px;
+    .stack {
+      font-size: 12px;
+      min-width: 75px;
+      margin: 5px 5px;
+      padding: 5px 10px;
+    }
+  }
+}
+
+@media screen and (max-width: 321px) {
+  .mystack {
+    width: 300px;
+    .stack {
+      min-width: 50px;
+    }
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .wallpaper {
+    height: 5vh;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .contact-me {
+    width: 300px;
+    .field {
+      font-size: 14px;
+    }
+  }
+}
+

@@ -1,0 +1,30 @@
+/* Main navbar */
+.navbar-wagon {
+  border-top: 3px solid transparent;
+  background: transparent;
+  transition: all 0.3s ease;
+  height: 70px;
+  z-index: 1000;
+}
+
+.navbar-wagon-white {
+  border-top: 3px solid #304966;
+  box-shadow: 0 1px 5px 0 rgba(0,0,0,0.07),0 1px 0 0 rgba(0,0,0,0.03);
+  background-color: white;
+  .navbar-wagon-item {
+    color: #304966;
+  }
+}
+
+.navbar-wagon-item {
+  transition: 0.1s ease;
+  opacity: 0.8;
+  cursor: pointer;
+  font-size: 14px;
+  &:hover {
+    opacity: 1;
+  }
+}
+
+
+
